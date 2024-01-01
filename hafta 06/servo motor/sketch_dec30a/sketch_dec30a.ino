@@ -3,7 +3,7 @@ Servo myservo;
 int pos = 0;
 
 void setup() {
-  myservo.attach(D9);
+  myservo.attach(D0);
 }
 
 void loop() {
